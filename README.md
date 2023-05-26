@@ -1,6 +1,6 @@
 # DATAFROG_SF2000_DUCK-HUNT_THEME
 
-Theme for Dataforg SF2000, inspired by garlicOS Duck Hunt theme
+Theme for Datafrog SF2000, inspired by garlicOS Duck Hunt theme
 
 How to apply theme:
 
